@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#121312;">
+
+ <center>
+        <div style="border: 5px ridge #af2eff; text-align: center; width: 92%; border-radius:0px;background-color:#fbf9f9;color:#0a0a0a;">
+     ဘောလုံးပွဲများ တိုက်ရိုက်ထုတ်လွှင့်ခြင်း
+        </div>
+        </center>
+<marquee bgcolor="#b4f207">Zal Tv Code များ (7day 500ks)ဖြင့် Messenger ကိုနှိပ်၍ စာပို့ဝယ်ယူနိူင်ပါကြောင်း အသိပေးကြေငြာအပ်ပါသည်။</marquee>
+ <iframe frameborder='0' height='500' allowfullscreen src='https://www.yalla-shoot.us/bein-sport-2-hd/' width='100%'></iframe>
+
+</body>
+</html>
